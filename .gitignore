@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data
+data/raw/*.csv
+data/raw/*.txt
+data/raw/*.json
+*.csv
+*.tsv
+*.dat
+
+# Models
+models/*.h5
+models/*.pkl
+models/*.pt
+models/*.pth
+models/*.ckpt
+*.h5
+*.pkl
+*.pt
+*.pth
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Kaggle
+kaggle.json
+
+# Results
+results/*.png
+results/*.jpg
+results/*.pdf
+
+# MD
+DEPLOYMENT_GUIDE.md
+FINAL_CHECKLIST.md
+PROGRESS.md
+
+
+# Others
+check_features.py
