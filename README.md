@@ -130,6 +130,10 @@ Or download manually from Kaggle and place in `data/raw/`
 ## 👥 Authors
 
 - **Student Name** - ITM-454 NLP Final Project
+- Raksmey POL
+- Virakyuth SRUN
+- Henglong LY
+- Sokati KEO
 
 ## 📄 License
 
@@ -140,3 +144,4 @@ This project is for educational purposes.
 - AUPP - ITM-454 Natural Language Processing Course
 - Kaggle for the dataset
 - Open-source NLP community
+- Claude Sonnet 4.5, ChatGPT, Gemini, DeepSeek for code reviews, debugging process and co-write a comprehensive overviews.
