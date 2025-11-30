@@ -124,7 +124,7 @@ Or download manually from Kaggle and place in `data/raw/`
 - [x] Phase 3: Feature Engineering (TF-IDF, Word2Vec)
 - [x] Phase 4: Model Development (7 models trained with GPU optimization)
 - [x] Phase 5: Model Evaluation & Comparison
-- [ ] Phase 6: Model Optimization & Hyperparameter Tuning
+- [x] Phase 6: Model Optimization & Hyperparameter Tuning
 - [ ] Phase 7: Deployment & API Development
 
 ## 👥 Authors
